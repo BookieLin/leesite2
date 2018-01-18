@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 public class MobileInterceptor implements HandlerInterceptor {
     @Override
     public boolean preHandle(HttpServletRequest httpServletRequest, HttpServletResponse httpServletResponse, Object o) throws Exception {
-        return false;
+        return true;
     }
 
     @Override
