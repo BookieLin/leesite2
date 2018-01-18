@@ -9,6 +9,7 @@
         <module>leesite2-dependencise</module>
         <module>leesite2-parent</module>
         <module>leesite2-database</module>
+        <module>leesite2-modules</module>
     </modules>
     <packaging>pom</packaging>
 	
